@@ -1,1 +1,4 @@
-# my-notes
+# My Notes
+
+- DSA
+- Machine Learning
